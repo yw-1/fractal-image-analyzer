@@ -7,10 +7,10 @@ Usage: `./fimg d1 d2 amplitude image.jpg`
 ## Some interesting examples
 
 `./fimg 5 20 150 test1.jpg`
-![alt text](s1.png)
+![alt text](s1.jpg)
 
 `./fimg 10 15 80 test3.jpg`
-![alt text](s2.png)
+![alt text](s2.jpg)
 
 `./fimg 5 20 80 test3.jpg`
-![alt text](s3.png)
+![alt text](s3.jpg)
