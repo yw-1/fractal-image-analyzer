@@ -4,7 +4,7 @@ Approximate instantaneous fractal dimension of each pixel in the image using col
 
 Usage: `./fimg e1 e2 amplitude image.jpg`
 
-## Fractal image analyzer
+## Description
 
 ![alt text](defn1.png)
 
