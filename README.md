@@ -2,7 +2,7 @@
 
 Approximate instantaneous fractal dimension of each pixel in the image using colour variance inside boxes sized d1 and d2.
 
-Usage: `./fimg d1 d2 amplitude image.jpg`
+Usage: `./fimg e1 e2 amplitude image.jpg`
 
 ## Description
 
