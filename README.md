@@ -1,6 +1,6 @@
 ## Fractal image analyzer
 
-Approximate instantaneous fractal dimension of each pixel in the image using colour variance inside boxes sized d1 and d2.
+Approximate instantaneous fractal dimension of each pixel in the image using colour variance inside boxes sized e1 and e2.
 
 Usage: `./fimg e1 e2 amplitude image.jpg`
 
